@@ -28,6 +28,17 @@
                 }
             });
         });
+
+        function hideShowPsw(){
+            var demoPassword = document.getElementById("demo_password");
+            if (demoPassword.type == "password") {
+                demoPassword.type = "text";
+
+            }else {
+                demoPassword.type = "password";
+
+            }
+        }
       /**焦点发生时白变黄*/
         function color_onFunction(x){
           x.style.background="yellow";
@@ -68,8 +79,8 @@
         <td>
           <form class="loginform" action="index.html" method="post">
             <br>帐号：<input type="text" name="" onfocus="color_onFunction(this)" onblur="color_outFunction(this)">
-            <br>密码：<input type="text" name="" onfocus="color_onFunction(this)" onblur="color_outFunction(this)">
-            <br><input type="radio" name="" value=" " >显示/隐藏密码
+            <br>密码：<input type="password" name="" id="demo_password" onfocus="color_onFunction(this)" onblur="color_outFunction(this)">
+            <br><input type="radio" name="" value=" " onclick="hideShowPsw()">显示/隐藏密码
               <input type="radio" name="" value=" " >记住密码
             <br><input type="submit" name="" value="注册" onmouseover="style.color='red'" onmouseout="style.color='black'">
                 <input type="submit" name="" value="登录" onmouseover="style.color='red'" onmouseout="style.color='black'">
