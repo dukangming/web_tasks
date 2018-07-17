@@ -1,0 +1,43 @@
+html, body{/**body铺满屏幕*/
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    background-size:100%;
+
+}
+.body_background{
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background-image: url("../img/body_background.jpg") ;/**背景*/
+  background-size：cover;
+}
+.nav{
+  border-bottom-right-radius: 10px;
+  background:repeat-x scroll 0 0 #009FB3;
+	height: 25%;
+	top: 0;
+	left: 0;
+	margin-bottom: 0;
+	position: fixed;
+	width: 11%;
+}
+
+.login{
+  text-align: center; /**让div内部文字居中*/
+  background-image: url("../img/login_background.jpg");/**背景*/
+  background-size:contain;/**适应div*/
+  border-radius: 20px;/**圆角*/
+  width: 300px;
+  height: 200px;
+  margin: 50px auto;/**div绝对居中*/
+  position: absolute;/**绝对定位*/
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.table{
+  text-align:center;/** 设置水平方向居中 */
+  vertical-align:middle/** 设置垂直方向居中 */
+}

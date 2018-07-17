@@ -1,501 +1,501 @@
 ---
 - !ruby/object:Student
   stu_id: '1'
-  stu_name: ojjd
-  stu_gender: 男
+  stu_name: gfip
+  stu_gender: 女
   stu_age: '15'
 - !ruby/object:Student
   stu_id: '2'
-  stu_name: xlam
+  stu_name: gswp
   stu_gender: 女
-  stu_age: '16'
+  stu_age: '19'
 - !ruby/object:Student
   stu_id: '3'
-  stu_name: cyil
+  stu_name: ewlp
   stu_gender: 女
-  stu_age: '19'
+  stu_age: '17'
 - !ruby/object:Student
   stu_id: '4'
-  stu_name: urtg
+  stu_name: ygyk
   stu_gender: 女
-  stu_age: '17'
+  stu_age: '19'
 - !ruby/object:Student
   stu_id: '5'
-  stu_name: pamd
-  stu_gender: 女
-  stu_age: '15'
-- !ruby/object:Student
-  stu_id: '6'
-  stu_name: xspo
-  stu_gender: 男
-  stu_age: '15'
-- !ruby/object:Student
-  stu_id: '7'
-  stu_name: yynh
-  stu_gender: 女
-  stu_age: '19'
-- !ruby/object:Student
-  stu_id: '8'
-  stu_name: hfdq
-  stu_gender: 男
-  stu_age: '16'
-- !ruby/object:Student
-  stu_id: '9'
-  stu_name: wwsj
-  stu_gender: 女
-  stu_age: '19'
-- !ruby/object:Student
-  stu_id: '10'
-  stu_name: plpp
-  stu_gender: 男
-  stu_age: '20'
-- !ruby/object:Student
-  stu_id: '11'
-  stu_name: fvkw
-  stu_gender: 男
-  stu_age: '19'
-- !ruby/object:Student
-  stu_id: '12'
-  stu_name: lcxf
-  stu_gender: 男
-  stu_age: '16'
-- !ruby/object:Student
-  stu_id: '13'
-  stu_name: vlqg
-  stu_gender: 女
-  stu_age: '20'
-- !ruby/object:Student
-  stu_id: '14'
-  stu_name: qovj
-  stu_gender: 男
-  stu_age: '19'
-- !ruby/object:Student
-  stu_id: '15'
-  stu_name: xbup
-  stu_gender: 男
-  stu_age: '20'
-- !ruby/object:Student
-  stu_id: '16'
-  stu_name: tpwh
+  stu_name: rqns
   stu_gender: 女
   stu_age: '18'
 - !ruby/object:Student
-  stu_id: '17'
-  stu_name: nils
+  stu_id: '6'
+  stu_name: vnxo
+  stu_gender: 女
+  stu_age: '16'
+- !ruby/object:Student
+  stu_id: '7'
+  stu_name: okeg
+  stu_gender: 男
+  stu_age: '16'
+- !ruby/object:Student
+  stu_id: '8'
+  stu_name: pxcj
   stu_gender: 女
   stu_age: '20'
 - !ruby/object:Student
-  stu_id: '18'
-  stu_name: efnp
+  stu_id: '9'
+  stu_name: qrlo
   stu_gender: 女
-  stu_age: '15'
+  stu_age: '18'
 - !ruby/object:Student
-  stu_id: '19'
-  stu_name: cnmm
-  stu_gender: 女
-  stu_age: '15'
-- !ruby/object:Student
-  stu_id: '20'
-  stu_name: qtve
+  stu_id: '10'
+  stu_name: qyje
   stu_gender: 男
   stu_age: '17'
 - !ruby/object:Student
-  stu_id: '21'
-  stu_name: njot
+  stu_id: '11'
+  stu_name: fhvp
+  stu_gender: 女
+  stu_age: '17'
+- !ruby/object:Student
+  stu_id: '12'
+  stu_name: rjlb
   stu_gender: 女
   stu_age: '18'
 - !ruby/object:Student
-  stu_id: '22'
-  stu_name: emad
+  stu_id: '13'
+  stu_name: rjmq
   stu_gender: 女
   stu_age: '19'
 - !ruby/object:Student
-  stu_id: '23'
-  stu_name: dvbq
+  stu_id: '14'
+  stu_name: jyip
   stu_gender: 男
+  stu_age: '18'
+- !ruby/object:Student
+  stu_id: '15'
+  stu_name: pbso
+  stu_gender: 男
+  stu_age: '16'
+- !ruby/object:Student
+  stu_id: '16'
+  stu_name: laci
+  stu_gender: 男
+  stu_age: '17'
+- !ruby/object:Student
+  stu_id: '17'
+  stu_name: jaxk
+  stu_gender: 男
+  stu_age: '16'
+- !ruby/object:Student
+  stu_id: '18'
+  stu_name: mmwu
+  stu_gender: 女
+  stu_age: '18'
+- !ruby/object:Student
+  stu_id: '19'
+  stu_name: swyr
+  stu_gender: 男
+  stu_age: '20'
+- !ruby/object:Student
+  stu_id: '20'
+  stu_name: cwqk
+  stu_gender: 男
+  stu_age: '20'
+- !ruby/object:Student
+  stu_id: '21'
+  stu_name: bocr
+  stu_gender: 女
+  stu_age: '16'
+- !ruby/object:Student
+  stu_id: '22'
+  stu_name: whpy
+  stu_gender: 女
+  stu_age: '17'
+- !ruby/object:Student
+  stu_id: '23'
+  stu_name: hxxc
+  stu_gender: 女
   stu_age: '16'
 - !ruby/object:Student
   stu_id: '24'
-  stu_name: qnha
+  stu_name: ounx
   stu_gender: 女
-  stu_age: '19'
+  stu_age: '20'
 - !ruby/object:Student
   stu_id: '25'
-  stu_name: roow
+  stu_name: mbfl
   stu_gender: 男
   stu_age: '18'
 - !ruby/object:Student
   stu_id: '26'
-  stu_name: htce
-  stu_gender: 男
-  stu_age: '17'
+  stu_name: pspg
+  stu_gender: 女
+  stu_age: '15'
 - !ruby/object:Student
   stu_id: '27'
-  stu_name: fxeh
-  stu_gender: 男
+  stu_name: mqlq
+  stu_gender: 女
   stu_age: '15'
 - !ruby/object:Student
   stu_id: '28'
-  stu_name: sqos
+  stu_name: vnvy
   stu_gender: 女
   stu_age: '20'
 - !ruby/object:Student
   stu_id: '29'
-  stu_name: lamu
-  stu_gender: 女
+  stu_name: kxob
+  stu_gender: 男
   stu_age: '15'
 - !ruby/object:Student
   stu_id: '30'
-  stu_name: pegp
-  stu_gender: 男
+  stu_name: eody
+  stu_gender: 女
   stu_age: '16'
 - !ruby/object:Student
   stu_id: '31'
-  stu_name: bicv
-  stu_gender: 女
-  stu_age: '20'
-- !ruby/object:Student
-  stu_id: '32'
-  stu_name: srcv
-  stu_gender: 女
+  stu_name: meei
+  stu_gender: 男
   stu_age: '15'
 - !ruby/object:Student
+  stu_id: '32'
+  stu_name: ifpt
+  stu_gender: 女
+  stu_age: '18'
+- !ruby/object:Student
   stu_id: '33'
-  stu_name: iaaw
+  stu_name: ougg
   stu_gender: 女
   stu_age: '19'
 - !ruby/object:Student
   stu_id: '34'
-  stu_name: iwio
+  stu_name: lymy
   stu_gender: 女
-  stu_age: '16'
+  stu_age: '18'
 - !ruby/object:Student
   stu_id: '35'
-  stu_name: ylhf
-  stu_gender: 男
+  stu_name: tyei
+  stu_gender: 女
   stu_age: '17'
 - !ruby/object:Student
   stu_id: '36'
-  stu_name: lfyo
-  stu_gender: 女
-  stu_age: '20'
+  stu_name: hcrx
+  stu_gender: 男
+  stu_age: '15'
 - !ruby/object:Student
   stu_id: '37'
-  stu_name: ppte
-  stu_gender: 男
+  stu_name: bdgr
+  stu_gender: 女
   stu_age: '16'
 - !ruby/object:Student
   stu_id: '38'
-  stu_name: nasv
+  stu_name: cpbq
   stu_gender: 女
-  stu_age: '15'
-- !ruby/object:Student
-  stu_id: '39'
-  stu_name: ipqg
-  stu_gender: 男
   stu_age: '20'
 - !ruby/object:Student
+  stu_id: '39'
+  stu_name: etfy
+  stu_gender: 女
+  stu_age: '15'
+- !ruby/object:Student
   stu_id: '40'
-  stu_name: nbrk
-  stu_gender: 女
-  stu_age: '19'
-- !ruby/object:Student
-  stu_id: '41'
-  stu_name: onxj
-  stu_gender: 女
-  stu_age: '15'
-- !ruby/object:Student
-  stu_id: '42'
-  stu_name: nkyv
-  stu_gender: 男
-  stu_age: '15'
-- !ruby/object:Student
-  stu_id: '43'
-  stu_name: bhqu
-  stu_gender: 女
-  stu_age: '16'
-- !ruby/object:Student
-  stu_id: '44'
-  stu_name: qogi
+  stu_name: bjtn
   stu_gender: 女
   stu_age: '17'
 - !ruby/object:Student
-  stu_id: '45'
-  stu_name: ufkf
+  stu_id: '41'
+  stu_name: tavt
+  stu_gender: 女
+  stu_age: '18'
+- !ruby/object:Student
+  stu_id: '42'
+  stu_name: ldki
+  stu_gender: 男
+  stu_age: '19'
+- !ruby/object:Student
+  stu_id: '43'
+  stu_name: qabo
+  stu_gender: 女
+  stu_age: '17'
+- !ruby/object:Student
+  stu_id: '44'
+  stu_name: pitw
   stu_gender: 女
   stu_age: '19'
 - !ruby/object:Student
-  stu_id: '46'
-  stu_name: xtrk
+  stu_id: '45'
+  stu_name: wwlg
   stu_gender: 男
-  stu_age: '18'
+  stu_age: '17'
+- !ruby/object:Student
+  stu_id: '46'
+  stu_name: xmch
+  stu_gender: 女
+  stu_age: '19'
 - !ruby/object:Student
   stu_id: '47'
-  stu_name: snpp
+  stu_name: uxyy
   stu_gender: 女
-  stu_age: '20'
+  stu_age: '15'
 - !ruby/object:Student
   stu_id: '48'
-  stu_name: nxbn
-  stu_gender: 女
+  stu_name: yhtt
+  stu_gender: 男
   stu_age: '16'
 - !ruby/object:Student
   stu_id: '49'
-  stu_name: jcsv
+  stu_name: bfgm
   stu_gender: 男
   stu_age: '16'
 - !ruby/object:Student
   stu_id: '50'
-  stu_name: lmhc
+  stu_name: hgtl
   stu_gender: 男
-  stu_age: '19'
+  stu_age: '16'
 - !ruby/object:Student
   stu_id: '51'
-  stu_name: vaod
-  stu_gender: 女
-  stu_age: '19'
-- !ruby/object:Student
-  stu_id: '52'
-  stu_name: hniw
-  stu_gender: 男
-  stu_age: '20'
-- !ruby/object:Student
-  stu_id: '53'
-  stu_name: hmeb
-  stu_gender: 男
-  stu_age: '19'
-- !ruby/object:Student
-  stu_id: '54'
-  stu_name: bvoq
-  stu_gender: 女
-  stu_age: '18'
-- !ruby/object:Student
-  stu_id: '55'
-  stu_name: ydxa
-  stu_gender: 女
-  stu_age: '20'
-- !ruby/object:Student
-  stu_id: '56'
-  stu_name: vnmx
-  stu_gender: 女
-  stu_age: '18'
-- !ruby/object:Student
-  stu_id: '57'
-  stu_name: qbnp
-  stu_gender: 男
-  stu_age: '20'
-- !ruby/object:Student
-  stu_id: '58'
-  stu_name: pvev
-  stu_gender: 女
-  stu_age: '15'
-- !ruby/object:Student
-  stu_id: '59'
-  stu_name: nfhg
+  stu_name: thdx
   stu_gender: 男
   stu_age: '17'
 - !ruby/object:Student
+  stu_id: '52'
+  stu_name: vhlv
+  stu_gender: 女
+  stu_age: '20'
+- !ruby/object:Student
+  stu_id: '53'
+  stu_name: kvki
+  stu_gender: 男
+  stu_age: '20'
+- !ruby/object:Student
+  stu_id: '54'
+  stu_name: fwhn
+  stu_gender: 男
+  stu_age: '17'
+- !ruby/object:Student
+  stu_id: '55'
+  stu_name: jnfg
+  stu_gender: 男
+  stu_age: '20'
+- !ruby/object:Student
+  stu_id: '56'
+  stu_name: clsi
+  stu_gender: 女
+  stu_age: '15'
+- !ruby/object:Student
+  stu_id: '57'
+  stu_name: dlmh
+  stu_gender: 男
+  stu_age: '16'
+- !ruby/object:Student
+  stu_id: '58'
+  stu_name: ttmg
+  stu_gender: 男
+  stu_age: '20'
+- !ruby/object:Student
+  stu_id: '59'
+  stu_name: wnml
+  stu_gender: 男
+  stu_age: '18'
+- !ruby/object:Student
   stu_id: '60'
-  stu_name: rysl
+  stu_name: ajhs
   stu_gender: 男
   stu_age: '20'
 - !ruby/object:Student
   stu_id: '61'
-  stu_name: vhmb
+  stu_name: lffn
   stu_gender: 男
-  stu_age: '15'
+  stu_age: '19'
 - !ruby/object:Student
   stu_id: '62'
-  stu_name: jmdb
+  stu_name: sldb
   stu_gender: 男
   stu_age: '17'
 - !ruby/object:Student
   stu_id: '63'
-  stu_name: jcab
-  stu_gender: 男
-  stu_age: '19'
-- !ruby/object:Student
-  stu_id: '64'
-  stu_name: acyl
-  stu_gender: 女
-  stu_age: '15'
-- !ruby/object:Student
-  stu_id: '65'
-  stu_name: bqww
+  stu_name: xkuv
   stu_gender: 女
   stu_age: '20'
 - !ruby/object:Student
-  stu_id: '66'
-  stu_name: smol
+  stu_id: '64'
+  stu_name: mbyg
   stu_gender: 女
-  stu_age: '17'
+  stu_age: '20'
 - !ruby/object:Student
-  stu_id: '67'
-  stu_name: lald
+  stu_id: '65'
+  stu_name: synu
+  stu_gender: 女
+  stu_age: '15'
+- !ruby/object:Student
+  stu_id: '66'
+  stu_name: lxpu
   stu_gender: 女
   stu_age: '18'
 - !ruby/object:Student
+  stu_id: '67'
+  stu_name: myww
+  stu_gender: 女
+  stu_age: '16'
+- !ruby/object:Student
   stu_id: '68'
-  stu_name: vlls
-  stu_gender: 男
-  stu_age: '15'
-- !ruby/object:Student
-  stu_id: '69'
-  stu_name: nuwc
-  stu_gender: 女
-  stu_age: '20'
-- !ruby/object:Student
-  stu_id: '70'
-  stu_name: kdfg
-  stu_gender: 男
-  stu_age: '17'
-- !ruby/object:Student
-  stu_id: '71'
-  stu_name: ntyw
-  stu_gender: 男
-  stu_age: '20'
-- !ruby/object:Student
-  stu_id: '72'
-  stu_name: amcn
-  stu_gender: 女
-  stu_age: '19'
-- !ruby/object:Student
-  stu_id: '73'
-  stu_name: xivc
+  stu_name: bfmd
   stu_gender: 男
   stu_age: '16'
 - !ruby/object:Student
-  stu_id: '74'
-  stu_name: uhwn
-  stu_gender: 男
-  stu_age: '19'
-- !ruby/object:Student
-  stu_id: '75'
-  stu_name: celv
-  stu_gender: 男
-  stu_age: '18'
-- !ruby/object:Student
-  stu_id: '76'
-  stu_name: pfgb
-  stu_gender: 男
+  stu_id: '69'
+  stu_name: imxy
+  stu_gender: 女
   stu_age: '15'
 - !ruby/object:Student
-  stu_id: '77'
-  stu_name: kscn
-  stu_gender: 男
-  stu_age: '15'
-- !ruby/object:Student
-  stu_id: '78'
-  stu_name: fwaq
+  stu_id: '70'
+  stu_name: ulbt
   stu_gender: 男
   stu_age: '20'
 - !ruby/object:Student
-  stu_id: '79'
-  stu_name: ctre
+  stu_id: '71'
+  stu_name: cist
+  stu_gender: 男
+  stu_age: '18'
+- !ruby/object:Student
+  stu_id: '72'
+  stu_name: kqct
+  stu_gender: 女
+  stu_age: '18'
+- !ruby/object:Student
+  stu_id: '73'
+  stu_name: bpww
+  stu_gender: 男
+  stu_age: '19'
+- !ruby/object:Student
+  stu_id: '74'
+  stu_name: trli
   stu_gender: 女
   stu_age: '15'
+- !ruby/object:Student
+  stu_id: '75'
+  stu_name: fpvt
+  stu_gender: 男
+  stu_age: '15'
+- !ruby/object:Student
+  stu_id: '76'
+  stu_name: qopd
+  stu_gender: 女
+  stu_age: '18'
+- !ruby/object:Student
+  stu_id: '77'
+  stu_name: ldpu
+  stu_gender: 女
+  stu_age: '20'
+- !ruby/object:Student
+  stu_id: '78'
+  stu_name: vtkh
+  stu_gender: 女
+  stu_age: '19'
+- !ruby/object:Student
+  stu_id: '79'
+  stu_name: qsgt
+  stu_gender: 女
+  stu_age: '19'
 - !ruby/object:Student
   stu_id: '80'
-  stu_name: htwy
-  stu_gender: 女
-  stu_age: '15'
+  stu_name: ekse
+  stu_gender: 男
+  stu_age: '16'
 - !ruby/object:Student
   stu_id: '81'
-  stu_name: smml
+  stu_name: bsre
   stu_gender: 男
   stu_age: '15'
 - !ruby/object:Student
   stu_id: '82'
-  stu_name: ickr
-  stu_gender: 女
-  stu_age: '17'
+  stu_name: beki
+  stu_gender: 男
+  stu_age: '18'
 - !ruby/object:Student
   stu_id: '83'
-  stu_name: yuoq
+  stu_name: lxha
   stu_gender: 男
   stu_age: '16'
 - !ruby/object:Student
   stu_id: '84'
-  stu_name: dhho
-  stu_gender: 男
-  stu_age: '18'
-- !ruby/object:Student
-  stu_id: '85'
-  stu_name: sexp
+  stu_name: ryud
   stu_gender: 女
-  stu_age: '19'
-- !ruby/object:Student
-  stu_id: '86'
-  stu_name: smti
-  stu_gender: 男
-  stu_age: '20'
-- !ruby/object:Student
-  stu_id: '87'
-  stu_name: mcyy
-  stu_gender: 男
   stu_age: '15'
 - !ruby/object:Student
-  stu_id: '88'
-  stu_name: pvvt
+  stu_id: '85'
+  stu_name: nvus
+  stu_gender: 女
+  stu_age: '20'
+- !ruby/object:Student
+  stu_id: '86'
+  stu_name: swkh
   stu_gender: 女
   stu_age: '16'
 - !ruby/object:Student
-  stu_id: '89'
-  stu_name: tses
+  stu_id: '87'
+  stu_name: egbs
   stu_gender: 女
-  stu_age: '19'
-- !ruby/object:Student
-  stu_id: '90'
-  stu_name: idsy
-  stu_gender: 男
   stu_age: '20'
 - !ruby/object:Student
-  stu_id: '91'
-  stu_name: hlan
+  stu_id: '88'
+  stu_name: ixcw
+  stu_gender: 男
+  stu_age: '18'
+- !ruby/object:Student
+  stu_id: '89'
+  stu_name: raev
+  stu_gender: 女
+  stu_age: '20'
+- !ruby/object:Student
+  stu_id: '90'
+  stu_name: nogc
   stu_gender: 男
   stu_age: '15'
 - !ruby/object:Student
-  stu_id: '92'
-  stu_name: svfs
+  stu_id: '91'
+  stu_name: tytm
   stu_gender: 女
   stu_age: '18'
 - !ruby/object:Student
-  stu_id: '93'
-  stu_name: tvbn
+  stu_id: '92'
+  stu_name: biav
   stu_gender: 女
+  stu_age: '17'
+- !ruby/object:Student
+  stu_id: '93'
+  stu_name: knrj
+  stu_gender: 男
   stu_age: '16'
 - !ruby/object:Student
   stu_id: '94'
-  stu_name: uxrg
-  stu_gender: 男
-  stu_age: '19'
+  stu_name: jywr
+  stu_gender: 女
+  stu_age: '18'
 - !ruby/object:Student
   stu_id: '95'
-  stu_name: yaxu
+  stu_name: vcgy
   stu_gender: 女
-  stu_age: '19'
+  stu_age: '16'
 - !ruby/object:Student
   stu_id: '96'
-  stu_name: shkd
+  stu_name: shba
   stu_gender: 男
-  stu_age: '17'
+  stu_age: '20'
 - !ruby/object:Student
   stu_id: '97'
-  stu_name: qnjp
+  stu_name: vlrq
+  stu_gender: 男
+  stu_age: '18'
+- !ruby/object:Student
+  stu_id: '98'
+  stu_name: seyo
+  stu_gender: 男
+  stu_age: '18'
+- !ruby/object:Student
+  stu_id: '99'
+  stu_name: tupq
   stu_gender: 男
   stu_age: '16'
 - !ruby/object:Student
-  stu_id: '98'
-  stu_name: jetu
-  stu_gender: 男
-  stu_age: '15'
-- !ruby/object:Student
-  stu_id: '99'
-  stu_name: liba
-  stu_gender: 女
-  stu_age: '20'
-- !ruby/object:Student
   stu_id: '100'
-  stu_name: egnx
-  stu_gender: 男
+  stu_name: junh
+  stu_gender: 女
   stu_age: '17'
