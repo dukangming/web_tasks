@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>登录注册页面</title>
+<!-- Bootstrap 核心 CSS 文件 -->
+<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" >
+<link rel="stylesheet" href="css/1.css" type="text/css">
+<!-- Bootstrap 核心 JavaScript 文件 -->
+<script type="text/javascript" src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js" ></script>
+<!-- jquery -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="js/1.js"></script>
+</head>
+<body>
+    <div class="container-fluid">
+      <div class="login">
+        <div class="login_up">
+          <span class="glyphicon glyphicon-user"></span>
+        </div>
+        <div class="login_down">
+          <p>登录/注册</p>
+          <form action="index.html" method="post">
+            <div class="user">
+              <label for="demo_user">用户名</label>
+              <input type="text" class="zm" id="demo_user">
+            </div>
+            <div class="password">
+              <label for="demo_password">密码</label>
+              <input type="password" class="zm" id="demo_password">
+              <img src="img/login.png" name="login" onclick="formSubmit();" id="subpw">
+            </div>
+            <div class="password_select">
+              <input type="radio" onclick="hideShowPsw()">显示/隐藏密码
+              <input type="radio" >记住密码
+            </div>
+        </div>
+      </div>
+    </div>
+</body>
+</html>

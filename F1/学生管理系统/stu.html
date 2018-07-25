@@ -1,0 +1,126 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>学生管理系统</title>
+<link type="text/css" rel="stylesheet" href="./css/stu.css" />
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+
+<body>
+	<div class="tbody">
+		<div class="tbody_inside">
+			<!--头部-->
+			<div class="head">
+				<div class="head_left"></div>
+				<p class="title">学生信息管理系统</p>
+				<div class="head_right"></div>
+			</div>
+			<div class="addOrDelete">
+				<button class="add" type="button" id="show">新增</button>
+				<button class="delete" type="button" onclick="delSel();" >删除</button>
+			</div>
+			<!--信息部分-->
+			<table class="contentTable" id="table">
+				<thead id="thead">
+					<tr class="contentTable1">
+						<td><input type="checkbox" onclick="selAll(this);"></td>
+						<td>序号</td>
+						<td>学号</td>
+						<td>姓名</td>
+						<td>性别</td>
+						<td>专业</td>
+						<td>年级</td>
+						<td>操作</td>
+					</tr>
+				</thead>
+				<tbody class="tb" id="tb">
+
+				</tbody>
+			</table>
+			<div class="upOrDown">
+				<span id="spanFirst" class="spanFirst">第一页 , </span>
+                <span id="spanLast" class="spanLast">最后一页 , </span> 第
+                <span id="spanPageNum"></span> 页 , 共
+                <span id="spanTotalPage"></span> 页 , 共
+				<span id="spanTotalNumRows"></span> 条,（每页显示10条）
+				<button class="down" type="button" id="spanNext">下一页</button>
+				<button class="up" type="button" id="spanPre">上一页</button>
+			</div>
+		</div>
+		<div class="over" style="display:none;" id="over">
+			<div class="over_child">
+				<p>新增学生信息</p>
+				<table>
+					<tbody id="over_tb">
+						<tr>
+							<td>学号：</td>
+							<td><input type="text" id="i1"></td>
+						</tr>
+						<tr>
+							<td>姓名：</td>
+							<td><input type="text" id="i2"></td>
+						</tr>
+						<tr>
+							<td>性别：</td>
+							<td><input type="text" id="i3"></td>
+						</tr>
+						<tr>
+							<td>专业：</td>
+							<td><input type="text" id="i4"></td>
+						</tr>
+						<tr>
+							<td>年级：</td>
+							<td><input type="text" id="i5"></td>
+						</tr>
+					</tbody>
+					<tr>
+						<td colspan="2">
+                        <input type="button" value="取消" id="hide23" class="button1" />
+                        <input type="button" value="提交" onclick="addTr();" class="button2" />
+                        </td>
+					</tr>
+				</table>
+				<div class="string"></div>
+			</div>
+		</div>
+		<div class="over2" style="display:none;" id="over2">
+			<div class="over_child2">
+				<p id="lookMessages">修改学生信息</p>
+				<table>
+					<tbody id="over_tb2">
+						<tr>
+							<td>学号：</td>
+							<td><input type="text"></td>
+						</tr>
+						<tr>
+							<td>姓名：</td>
+							<td><input type="text"></td>
+						</tr>
+						<tr>
+							<td>性别：</td>
+							<td><input type="text"></td>
+						</tr>
+						<tr>
+							<td>专业：</td>
+							<td><input type="text"></td>
+						</tr>
+						<tr>
+							<td>年级：</td>
+							<td><input type="text"></td>
+						</tr>
+					</tbody>
+					<tr>
+						<td colspan="2">
+                        <input type="button" value="取消" onclick="showHide2(this);" class="button1" />
+                        <input type="button" value="保存" onclick="okBtn();" class="button2" id="hide" />
+                        </td>
+					</tr>
+				</table>
+				<div class="string"></div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="js/stu.js"></script>
+</body>
+</html>

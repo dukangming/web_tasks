@@ -1,0 +1,139 @@
+html, body {/**body铺满屏幕*/
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    background-size:100%;
+}
+.container-fluid {
+  height: 100%;
+  background-color: pink;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.login {
+  text-align: center; /**让div内部文字居中*/
+  background-color: #fff;
+  border-radius: 20px;/**圆角*/
+  width: 300px;
+  height: 400px;
+  margin: 50px auto;/**div绝对居中*/
+  position: absolute;/**绝对定位*/
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.login_up {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  text-align: center;
+}
+.login_down {
+  text-align: center; /**让div内部文字居中*/
+}
+.login span {
+  color: #fff;
+  font-size: 20px;
+  line-height: 100px;
+}
+.table {
+  text-align:center;/** 设置水平方向居中 */
+  vertical-align:middle/** 设置垂直方向居中 */
+}
+
+.user {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid pink;
+  width: 245px;
+  height: 50px;
+
+  /*
+  opacity: 1;
+  -moz-transition: all 0.2s linear 0s;
+  -webkit-transition: all 0.2s linear 0s;
+  transition: all 0.2s linear 0s;
+  */
+}
+
+.user label {
+  display:inline;
+  color: black;
+  position:absolute;
+  text-align: center;
+  line-height: 60px;
+  width: 60px;
+  height: 45px;
+  font-size: 20px;
+}
+
+/*
+.user input:focus + label,
+.user input.active + label,
+.user textarea:focus + label,
+.user textarea.active + label {
+  font-size: 80%;
+  font-style: italic;
+  left: -6px;
+  opacity: 0.6;
+}
+*/
+
+.password {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid pink;
+  width: 245px;
+  height: 50px;
+}
+
+.password label {
+  top: 245px;
+  left: 20px;
+  color: black;
+  position:absolute;
+  text-align: center;
+  line-height: 60px;
+  width: 60px;
+  height: 45px;
+  font-size: 20px;
+}
+
+.password #subpw {
+  top: 245px;
+  background-size：cover;
+	width: 50px;
+	height: 50px;
+	border-radius:50px ;
+	text-align: center;
+
+	font-size: 20px;
+	line-height: 50px;
+	position: absolute;
+	right: -25px;
+}
+.zm {
+  border: 0;
+  background-color: #fff;
+  width: 245px;
+  height: 45px;
+}
+.password_select {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 10px;
+}
