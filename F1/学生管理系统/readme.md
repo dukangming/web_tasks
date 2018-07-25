@@ -17,7 +17,7 @@
 ![删除1](https://github.com/dukangming/web_tasks/blob/master/F1/%E4%BB%BB%E5%8A%A1%E6%88%AA%E5%9B%BE/stu%E5%88%A0%E9%99%A4.png)
 ![删除2](https://github.com/dukangming/web_tasks/blob/master/F1/%E4%BB%BB%E5%8A%A1%E6%88%AA%E5%9B%BE/stu%E5%88%A0%E9%99%A4%E5%90%8E.png)
 <br>查看
-![查看]（https://github.com/dukangming/web_tasks/blob/master/F1/%E4%BB%BB%E5%8A%A1%E6%88%AA%E5%9B%BE/stu%E6%9F%A5%E7%9C%8B.png)
+![查看](https://github.com/dukangming/web_tasks/blob/master/F1/%E4%BB%BB%E5%8A%A1%E6%88%AA%E5%9B%BE/stu%E6%9F%A5%E7%9C%8B.png)
 <br>修改
 ![修改1](https://github.com/dukangming/web_tasks/blob/master/F1/%E4%BB%BB%E5%8A%A1%E6%88%AA%E5%9B%BE/stu%E6%94%B9.png)
 ![修改2](https://github.com/dukangming/web_tasks/blob/master/F1/%E4%BB%BB%E5%8A%A1%E6%88%AA%E5%9B%BE/stu%E6%94%B9%E5%90%8E.png)
