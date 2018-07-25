@@ -25,7 +25,7 @@ var numberRowsInTable = theTable.rows.length;
 var numRows = getId("spanTotalNumRows");
 // 学生信息
 var message = new Array();
-message.push(new student(1606010425, "杜康明", "计信院", "计算机", 2016));
+message.push(new student(1606010425, "杜康明", "男", "计算机", 2016));
 /* 显示增加窗体 */
 var showHide = function(obj) {
 	var overDiv = getId("over");
