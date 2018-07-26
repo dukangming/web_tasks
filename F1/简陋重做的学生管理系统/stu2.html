@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>学生管理系统</title>
+	<link type="text/css" rel="stylesheet" href="./css/stu2.css" />
+</head>
+<body>
+  <div class="mainbody">
+  	<form class="mainform"  method="post">
+  		姓名： <input type="text" name="stuName" value=""> <br>
+			性别： <input type="text" name="stuSex" value=""> <br>
+			学号： <input type="text" name="stuId" value=""> <br>
+			年级： <input type="text" name="stuClass" value=""> <br>
+			专业：	<input type="text" name="stuMajor" value=""> <br>
+			<input type="submit" name="" value="提交">
+			<input type="reset" name="" value="重置">
+			<input type="submit" name="" value="修改"> <br>
+			<button type="button" id="clear">clear</button>
+  	</form>
+		<section>
+			<table class="tb">
+				<caption>学生信息</caption>
+				<thead>
+					<tr>
+						<th>姓名</th>
+						<th>性别</th>
+						<th>学号</th>
+						<th>年级</th>
+						<th>专业</th>
+						<th>删除</th>
+					</tr>
+				</thead>
+				<tbody id="show">
+					<tr>
+						<th>empty</th>
+						<th>empty</th>
+						<th>empty</th>
+						<th>empty</th>
+						<th>empty</th>
+					</tr>
+				</tbody>
+			</table>
+		</section>
+  </div>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="./js/stu2.js"></script>
+</body>
+</html>
