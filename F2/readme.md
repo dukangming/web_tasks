@@ -1,3 +1,63 @@
+<br>1.命名已经改正
+<br>2.
+<br>3.定制化程度不高问题：暴露自动播放速度，是否触屏滑动，是否可以自动播放参数，提高可定制化程度
+```
+speed = 3000,//自定义速度
+swipe = true,//定义是否可触屏滑动
+auto = true;//定义是否可自动播放
+```
+<br>4.关于耦合程度较高问题  以及  5.关于事件代理问题  采用事件代理，且改变原来一点击一函数的模式，利用标签id实现跳转到指定图片
+```
+/*跳转到指定图片*/
+window.onload = function(){
+    var oul = document.getElementById("oul");
+    oul.onclick = function (ev) {
+      var ev = ev || window.event;
+      var target = ev.target || ev.srcElement;
+      if(target.nodeName.toLocaleLowerCase() == 'li'){
+        //清除上次样式 (classList.remove();)
+        aImages[lastIndex].className = ' ';//清除图片类名
+        aTabs[lastIndex].className = ' ';//清除tab类名
+
+        //改变当前下标
+        index = target.id;
+
+        //设置当前样式
+        aImages[index].className = 'on';//给图片添加类名
+        aTabs[index].className = 'on';//给tab添加类名
+        lastIndex = index;//变成上一任
+        }
+    }
+}
+```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>1.能够自动播放：
 ```
 /* 自动播放 */
