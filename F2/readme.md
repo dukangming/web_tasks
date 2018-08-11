@@ -1,3 +1,5 @@
+##第二次提交介绍
+<br>
 <br>所有改正内容全部在project文件夹，请学长查验
 <br>1.命名已经改正
 <br>2.package.json添加项目依赖
@@ -112,8 +114,15 @@ import css from './carousel.less';
 ```
 <br>
 <br>main.js作为唯一入口文件，打包后文件为main1.js，在html文件中引入main1.js
+<br>
+```
+entry:  __dirname + "/app/main.js",//已多次提及的唯一入口文件
+output: {
+  path: __dirname + "/public",//打包后的文件存放的地方
+  filename: "main1.js"//打包后输出文件的文件名
+},
+```
 
-
 <br>
 <br>
 <br>
@@ -136,6 +145,34 @@ import css from './carousel.less';
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+##第一次提交介绍
 <br>
 <br>1.能够自动播放：
 ```
