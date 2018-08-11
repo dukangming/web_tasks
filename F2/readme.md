@@ -118,5 +118,4 @@ output: {
   path: dirname + "/public",//打包后的文件存放的地方
   filename: "main1.js"//打包后输出文件的文件名
 },
-
 ```
