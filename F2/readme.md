@@ -116,9 +116,9 @@ import css from './carousel.less';
 <br>main.js作为唯一入口文件，打包后文件为main1.js，在html文件中引入main1.js
 <br>
 ```
-entry:  __dirname + "/app/main.js",//已多次提及的唯一入口文件
+entry:  dirname + "/app/main.js",//已多次提及的唯一入口文件
 output: {
-  path: __dirname + "/public",//打包后的文件存放的地方
+  path: dirname + "/public",//打包后的文件存放的地方
   filename: "main1.js"//打包后输出文件的文件名
 },
 ```
