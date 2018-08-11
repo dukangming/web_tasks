@@ -112,7 +112,7 @@ const carousel = require('./carousel.js');
 import css from './carousel.less';
 
 
-9.main.js作为唯一入口文件，打包后文件为main1.js，在html文件中引入main1.js
+main.js作为唯一入口文件，打包后文件为main1.js，在html文件中引入main1.js
 
 entry:  dirname + "/app/main.js",//已多次提及的唯一入口文件
 output: {
