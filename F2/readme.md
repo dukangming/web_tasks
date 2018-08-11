@@ -106,15 +106,13 @@ module: {
   }
 ```
 <br>
-<br>
+<br>8.less、jquery打包成一个文件，并了解import、require的使用
 ```
-8.less、jquery打包成一个文件，并了解import、require的使用
-
 const carousel = require('./carousel.js');
 import css from './carousel.less';
 
 
-main.js作为唯一入口文件，打包后文件为main1.js，在html文件中引入main1.js
+9.main.js作为唯一入口文件，打包后文件为main1.js，在html文件中引入main1.js
 
 entry:  dirname + "/app/main.js",//已多次提及的唯一入口文件
 output: {
