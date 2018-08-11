@@ -111,18 +111,18 @@ module: {
 const carousel = require('./carousel.js');
 
 import css from './carousel.less';
-```
-<br>
-<br>main.js作为唯一入口文件，打包后文件为main1.js，在html文件中引入main1.js
-<br>
-```
+
+
+main.js作为唯一入口文件，打包后文件为main1.js，在html文件中引入main1.js
+
 entry:  dirname + "/app/main.js",//已多次提及的唯一入口文件
 output: {
   path: dirname + "/public",//打包后的文件存放的地方
   filename: "main1.js"//打包后输出文件的文件名
 },
 ```
-
+<br>
+<br>
 <br>
 <br>
 <br>
