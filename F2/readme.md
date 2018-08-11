@@ -105,11 +105,12 @@ module: {
       ]
   }
 ```
-<br>8.less、jquery打包成一个文件，并了解import、require的使用
-<br>在main.js中
+<br>
+<br>
 ```
-const carousel = require('./carousel.js');
+8.less、jquery打包成一个文件，并了解import、require的使用
 
+const carousel = require('./carousel.js');
 import css from './carousel.less';
 
 
