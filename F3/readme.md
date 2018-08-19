@@ -13,6 +13,12 @@
 <br>2.不同图片适应会出现问题
 <br>3.针对那个不同图片适应出现问题，试着将600改为其他数,在页面检查中有时会出现jpg格式变成txet/html，不显示图片
 <br>
+<br>
+<br>中间遇到巨坑的一个问题，一npm run dev就报错，错误说的天花乱坠，怎么都运行不了，后来发现是vue运行条件过于苛刻，将这句注释掉就ok了
+```
+//...(config.dev.useEslint ? [createLintingRule()] : []),
+```
+<br>
 <br>vue中引入图片方式
 ```
 <li v-for="(item, index) in sliders" :key="index">
