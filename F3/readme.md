@@ -9,7 +9,7 @@
 ##介绍
 
 <br>项目都在F3/project/me-project中
-<br>项目主要参考链接 https://github.com/liyue2/vue-slider-third/blob/master/src/components/HelloWorld.vue
+<br>项目主要参考链接 https://github.com/liyue2/vue-slider-third
 <br>大部分参考的这个，但是他没有注释，很多是自己的理解然后写下来并加上了注释，有几个地方还没看懂，就没有写。
 <br>现在项目还有几个问题需要解决
 <br>1.最小化页面再打开会出现无线滚动？？？？？
