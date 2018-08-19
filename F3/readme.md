@@ -20,6 +20,7 @@
 ```
 <br>
 <br>vue中引入图片方式
+
 ```
 <li v-for="(item, index) in sliders" :key="index">
   <img :src="item.img" alt="">
@@ -44,11 +45,13 @@ sliders:[
   }
 ],
 ```
+
 <br>
 <br>
 <br>左右翻图
 <br>
 <br>
+
 ```
 move(offset, direction) {
     direction === -1 ? this.currentIndex += offset/600 : this.currentIndex -= offset/600 //向左向右移动判定，从而使下面圆点进行移动
@@ -63,6 +66,7 @@ move(offset, direction) {
 <br>过渡动画
 <br>
 <br>
+
 ```
 // 过渡动画
 animate(des, direc) {
