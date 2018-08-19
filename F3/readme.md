@@ -15,11 +15,16 @@
 <br>
 <br>
 <br>中间遇到巨坑的一个问题，一npm run dev就报错，错误说的天花乱坠，怎么都运行不了，后来发现是vue运行条件过于苛刻，将这句注释掉就ok了
+
+
 ```
 //...(config.dev.useEslint ? [createLintingRule()] : []),
 ```
+
+
 <br>
 <br>vue中引入图片方式
+
 
 ```
 <li v-for="(item, index) in sliders" :key="index">
@@ -61,6 +66,8 @@ move(offset, direction) {
     this.animate(destination, direction) //过渡动画
 },
 ```
+
+
 <br>
 <br>
 <br>过渡动画
@@ -83,11 +90,15 @@ animate(des, direc) {
   }, 20)
 },
 ```
+
+
 <br>
 <br>
 <br>点击跳转
 <br>
 <br>
+
+
 ```
 // 点击跳转
 jump(index) {
@@ -97,11 +108,15 @@ jump(index) {
   this.move(offset, direction, jumpSpeed)
 },
 ```
+
+
 <br>
 <br>
 <br>自动播放
 <br>
 <br>
+
+
 ```
 // 自动播放
 play() {
@@ -119,9 +134,13 @@ stop() {
   this.timer = null
 }
 ```
+
+
 <br>
 <br>
 <br>自定义插件
+
+
 ```
 props: {
     isAutoPlay: { //是否自动播放
@@ -134,6 +153,8 @@ props: {
     }
 },
 ```
+
+
 <br>
 <br>
 <br>
