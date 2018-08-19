@@ -1,10 +1,13 @@
 ##目录结构
+
 <br>project里面放的最开始的vue和vue.cli
 <br>在project里建项目模板--me-project
 <br>模板研究了好久，index.html是个入口页面，里面app组件需要在main.js里注册，等等
 <br>后来发现写的只需要是components/HelloWorld.vue和App.vue
 <br>由于写.vue文件什么提示补充都没有，于是先写在1.html中再copy到HelloWorld.vue
+
 ##介绍
+
 <br>项目都在F3/project/me-project中
 <br>项目主要参考链接 https://github.com/liyue2/vue-slider-third/blob/master/src/components/HelloWorld.vue
 <br>大部分参考的这个，但是他没有注释，很多是自己的理解然后写下来并加上了注释，有几个地方还没看懂，就没有写。
